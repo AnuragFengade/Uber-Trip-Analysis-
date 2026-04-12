@@ -1,6 +1,6 @@
  <h1>Uber Trip Analysis - Exploratory Data Analysis (EDA)</h1>
 
-  <p><strong>Author:</strong> Mayur Sangale</p>
+  <p><strong>Author:</strong>Anurag Ganesh Fengade</p>
 
   <p>
     This project presents an exploratory data analysis (EDA) of Uber trip data. The analysis aims to uncover patterns in ride frequency, time-based trends, and geographic insights to help understand user behavior, trip distributions, and potential business opportunities.
