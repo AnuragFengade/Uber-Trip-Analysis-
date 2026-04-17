@@ -42,3 +42,6 @@ The dataset used in this project is publicly available and can be found on: Kagg
 Author
 
 Anurag Ganesh Fengade 
+- 💻 [GitHub]( https://github.com/AnuragFengade)
+- 🔗 [LinkedIn]( https://www.linkedin.com/in/anurag-fengade-910620255/)
+
