@@ -38,3 +38,7 @@ Trip activity patterns differ significantly between weekdays and weekends.
 
 📊 Dataset Source
 The dataset used in this project is publicly available and can be found on: Kaggle Datasets or via Uber's open data portal
+
+Author
+
+Anurag Ganesh Fengade 
