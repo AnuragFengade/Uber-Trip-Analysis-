@@ -47,7 +47,6 @@ Anurag Ganesh Fengade
 - 🔗 [LinkedIn]( https://www.linkedin.com/in/anurag-fengade-910620255/)
 
 📌 Conclusion
-
 The Uber Trip Analysis (EDA) provides valuable insights into ride patterns, user behavior, and operational trends. Through detailed exploration of the dataset, several meaningful observations were identified.
 
 The analysis shows that Uber demand is highly time-dependent, with peak activity occurring during weekday rush hours, indicating strong usage for daily commuting. A noticeable increase in trips on Fridays suggests a shift toward social and leisure travel as the weekend approaches.
